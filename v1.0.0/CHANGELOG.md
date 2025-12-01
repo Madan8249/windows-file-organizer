@@ -4,7 +4,7 @@ All notable changes to this project will be documented in this file.
 
 # Changelog
 
-## [5.0.0] - 2025-02-01
+## [5.0.0] - 2025-12-01
 
 ### Added
 - GUI configuration panel with system tray icon
