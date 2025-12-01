@@ -16,7 +16,7 @@ Automatic file organization system for Windows 10/11
 
 📥 **[Download v5.0.0](https://github.com/Madan8249/windows-file-organizer/releases/download/v5.0.0/windows-file-organizer-v5.0.0.zip)**  
 📖 **[Documentation v5.0.0](./v5.0.0/README_v5.md)**  
-📋 **[Installation Guide v5.0.0](./v5.0.0/INSTALLATION_GUIDE_v5.md)**
+📋 **[Installation Guide v5.0.0](./v5.0.0/README_v5.md)**
 
 ---
 
@@ -29,8 +29,8 @@ Automatic file organization system for Windows 10/11
 - Year/Month/FileType structure
 
 📥 **[Download v1.0.0](https://github.com/Madan8249/windows-file-organizer/releases/tag/v1.0.0)**  
-📖 **[Documentation v1.0.0](./v1.0.0/README_v1.md)**  
-📋 **[Installation Guide v1.0.0](./v1.0.0/INSTALLATION_GUIDE_v1.md)**
+📖 **[Documentation v1.0.0](./v1.0.0/README.md)**  
+📋 **[Installation Guide v1.0.0](./v1.0.0/INSTALLATION_GUIDE.md)**
 
 ---
 
@@ -59,8 +59,8 @@ See [CHANGELOG.md](v1.0.0/CHANGELOG.md) for complete version history.
 
 ## 🤝 Contributing
 
-See [CONTRIBUTING.md](./CONTRIBUTING.md)
+See [CONTRIBUTING.md](v1.0.0/CONTRIBUTING.md)
 
 ## 📄 License
 
-MIT License - See [LICENSE](./LICENSE)
+MIT License - See [LICENSE](v1.0.0/LICENSE)
