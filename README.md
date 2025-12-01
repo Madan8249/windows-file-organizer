@@ -55,7 +55,7 @@ Automatic file organization system for Windows 10/11
 
 ## 📝 Full Changelog
 
-See [CHANGELOG.md](./CHANGELOG.md) for complete version history.
+See [CHANGELOG.md](v1.0.0/CHANGELOG.md) for complete version history.
 
 ## 🤝 Contributing
 
