@@ -1,0 +1,138 @@
+{
+    "version": "5.0.0",
+    "general": {
+        "delay_minutes": 30,
+        "organize_existing_on_startup": false,
+        "check_interval_seconds": 10
+    },
+    "logging": {
+        "log_to_file": true,
+        "log_file": "file_organizer.log",
+        "log_level": "INFO",
+        "console_output": true
+    },
+    "sources": [
+        {
+            "name": "Downloads",
+            "folder": "Downloads",
+            "destination_drive": "F:\\",
+            "destination_folder": "IN_MSG",
+            "enabled": true
+        },
+        {
+            "name": "Desktop",
+            "folder": "Desktop",
+            "destination_drive": "D:\\",
+            "destination_folder": "OUT_MSG",
+            "enabled": true
+        }
+    ],
+    "file_types": {
+        "documents": [
+            ".docx",
+            ".doc",
+            ".txt",
+            ".pdf",
+            ".odt",
+            ".rtf"
+        ],
+        "spreadsheets": [
+            ".xlsx",
+            ".xls",
+            ".csv",
+            ".ods"
+        ],
+        "presentations": [
+            ".pptx",
+            ".ppt",
+            ".odp"
+        ],
+        "images": [
+            ".jpg",
+            ".jpeg",
+            ".png",
+            ".gif",
+            ".bmp",
+            ".svg",
+            ".ico"
+        ],
+        "videos": [
+            ".mp4",
+            ".avi",
+            ".mkv",
+            ".mov",
+            ".wmv",
+            ".flv",
+            ".webm"
+        ],
+        "audio": [
+            ".mp3",
+            ".wav",
+            ".flac",
+            ".aac",
+            ".ogg",
+            ".wma"
+        ],
+        "archives": [
+            ".zip",
+            ".rar",
+            ".7z",
+            ".tar",
+            ".gz",
+            ".bz2"
+        ],
+        "code": [
+            ".py",
+            ".js",
+            ".html",
+            ".css",
+            ".java",
+            ".cpp",
+            ".c",
+            ".h",
+            ".json",
+            ".xml"
+        ],
+        "executables": [
+            ".exe",
+            ".msi",
+            ".bat",
+            ".sh",
+            ".app"
+        ],
+        "ebooks": [
+            ".epub",
+            ".mobi",
+            ".azw",
+            ".azw3"
+        ]
+    },
+    "exclusions": {
+        "exclude_prefixes": [
+            ".",
+            "~",
+            "$"
+        ],
+        "exclude_files": [
+            "desktop.ini",
+            "Thumbs.db",
+            ".DS_Store"
+        ],
+        "exclude_extensions": [
+            ".tmp",
+            ".temp",
+            ".crdownload",
+            ".part"
+        ]
+    },
+    "statistics": {
+        "enabled": true,
+        "stats_file": "statistics.json",
+        "show_on_exit": true
+    },
+    "notifications": {
+        "enabled": false,
+        "show_move_notification": true,
+        "show_error_notification": true
+    }
+}
