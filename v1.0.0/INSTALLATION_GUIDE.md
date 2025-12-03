@@ -77,7 +77,7 @@ You should see: `Successfully installed watchdog-3.0.0`
 If you have Git installed:
 ```bash
 cd C:\
-git clone https://github.com/Madan8249/windows-file-organizer.git FileOrganizer
+git clone https://github.com/soren-code/windows-file-organizer.git FileOrganizer
 cd FileOrganizer
 pip install -r requirements.txt
 ```

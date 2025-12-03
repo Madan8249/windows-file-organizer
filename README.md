@@ -14,7 +14,7 @@ Automatic file organization system for Windows 10/11
 - Custom rules engine
 - Multi-language support
 
-📥 **[Download v5.0.0](https://github.com/Madan8249/windows-file-organizer/releases/download/v5.0.0/windows-file-organizer-v5.0.0.zip)**  
+📥 **[Download v5.0.0](https://github.com/soren-code/windows-file-organizer/releases/download/v5.0.0/windows-file-organizer-v5.0.0.zip)**  
 📖 **[Documentation v5.0.0](./v5.0.0/README_v5.md)**  
 📋 **[Installation Guide v5.0.0](./v5.0.0/README_v5.md)**
 
@@ -28,7 +28,7 @@ Automatic file organization system for Windows 10/11
 - Downloads and Desktop monitoring
 - Year/Month/FileType structure
 
-📥 **[Download v1.0.0](https://github.com/Madan8249/windows-file-organizer/releases/tag/v1.0.0)**  
+📥 **[Download v1.0.0](https://github.com/soren-code/windows-file-organizer/releases/tag/v1.0.0)**  
 📖 **[Documentation v1.0.0](./v1.0.0/README.md)**  
 📋 **[Installation Guide v1.0.0](./v1.0.0/INSTALLATION_GUIDE.md)**
 

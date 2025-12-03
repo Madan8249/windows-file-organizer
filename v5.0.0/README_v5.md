@@ -57,7 +57,7 @@ Documents, Spreadsheets, Presentations, Images, Videos, Audio, Archives, Code, E
 ### Quick Install
 ```bash
 # 1. Clone repository
-https://github.com/Madan8249/windows-file-organizer.git
+https://github.com/soren-code/windows-file-organizer.git
 cd windows-file-organizer/v5.0.0
 
 # 2. Install dependencies

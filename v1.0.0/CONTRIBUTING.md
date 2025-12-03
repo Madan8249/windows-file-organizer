@@ -60,7 +60,7 @@ Before submitting:
 ## Development Setup
 ```bash
 # Clone your fork
-git clone https://github.com/Madan8249/windows-file-organizer.git
+git clone https://github.com/soren-code/windows-file-organizer.git
 cd windows-file-organizer
 
 # Install dependencies
